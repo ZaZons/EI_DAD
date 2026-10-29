@@ -1,0 +1,8 @@
+{
+  "name": "lab01-javascript",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "playwright": "^1.40.0"
+  }
+}
